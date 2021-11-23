@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "API Contacts",
   "main": "index.js",
+  
   "repository": {
     "type": "git",
     "url": "https://github.com/jjpalmacosta/contactsfis.git"
   },
+  
   "homepage": "https://github.com/jjpalmacosta/contactsfis",
   "scripts": {
     "start": "node index.js",
