@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "API Contacts",
   "main": "index.js",
-  
   "repository": {
     "type": "git",
     "url": "https://github.com/jjpalmacosta/contacts.git"
   },
-
   "homepage": "https://github.com/jjpalmacosta/contacts",
   "scripts": {
     "start": "node index.js",
@@ -17,6 +15,7 @@
   "author": "Juan Jose Palma Acosta",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
   }
 }
