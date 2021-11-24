@@ -6,10 +6,10 @@
   
   "repository": {
     "type": "git",
-    "url": "https://github.com/jjpalmacosta/contactsfis.git"
+    "url": "https://github.com/jjpalmacosta/contacts.git"
   },
-  
-  "homepage": "https://github.com/jjpalmacosta/contactsfis",
+
+  "homepage": "https://github.com/jjpalmacosta/contacts",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
